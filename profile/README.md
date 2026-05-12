@@ -82,24 +82,5 @@ Early robots such as **CAT Rover R6 Mapper** and **CAT Rover R7 Turtle** used cu
 
 Those lessons inspired newer CAT hardware such as **Caprock Core G4**, **Caprock PowerRock 3S4P**, and **CAT DriveRock 8H-IFX**.
 
-```text
-Early robot experiments
-│
-├── CAT Core ESP32
-├── CAT Rover R6 Mapper
-└── CAT Rover R7 Turtle
-        │
-        ▼
-Lessons learned from real robot builds
-        │
-        ▼
-Modular CAT hardware
-│
-├── Caprock Core G4
-├── Caprock PowerRock 3S4P
-└── CAT DriveRock 8H-IFX
-        │
-        ▼
-New rover platforms
-│
-└── CAT Rover R8 Observer
+![CAT Rover R8 Observer](images/Observer_1.jpg)
+![CAT Rover R8 Observer](images/Observer_2.jpg)
