@@ -1,6 +1,8 @@
 # Caprock Autonomous Technologies
 
-**Caprock Autonomous Technologies (CAT)** develops robotics hardware, embedded control systems, power electronics, and autonomous robot platforms from West Texas.
+**Caprock Autonomous Technologies (CAT)** is a robotics hardware and autonomous systems project founded and developed by **Dr. Kalana Pothuwila** in West Texas.
+
+CAT develops robotics hardware, embedded control systems, power electronics, and autonomous robot platforms for mobile robots, education, research, and real-world prototyping.
 
 > **American autonomous systems built in West Texas.**
 
@@ -13,6 +15,8 @@ Caprock Autonomous Technologies is focused on building practical robotics system
 The goal is to create modular robot platforms and electronics that are useful for mobile robots, education, research, and real-world prototyping.
 
 CAT projects include robot controller boards, motor-driver boards, smart power systems, mobile rover platforms, ROS 2 software, and embedded robotics experiments.
+
+Caprock Autonomous Technologies was created by **Dr. Kalana Pothuwila** based on hands-on experience designing, building, testing, and teaching robotics and control systems.
 
 ---
 
@@ -67,7 +71,7 @@ CAT projects include robot controller boards, motor-driver boards, smart power s
 
 ## Development Story
 
-The CAT ecosystem grew from practical robot-building experience.
+The CAT ecosystem grew from practical robot-building experience by **Dr. Kalana Pothuwila**.
 
 Early robots such as **CAT Rover R6 Mapper** and **CAT Rover R7 Turtle** used custom wiring, separate batteries, buck converters, fuses, switches, breadboards, Arduino boards, and embedded computers. These platforms helped reveal the real challenges of robot electronics:
 
@@ -81,5 +85,3 @@ Early robots such as **CAT Rover R6 Mapper** and **CAT Rover R7 Turtle** used cu
 - need for modular, reusable robot hardware
 
 Those lessons inspired newer CAT hardware such as **Caprock Core G4**, **Caprock PowerRock 3S4P**, and **CAT DriveRock 8H-IFX**.
-
-
